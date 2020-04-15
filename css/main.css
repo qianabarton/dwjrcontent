@@ -26,6 +26,10 @@ p {
     font-family: 'Alegreya Sans SC', sans-serif;
 }
 
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
 
 .navbar-nav {
     justify-content: center;
@@ -88,6 +92,14 @@ p {
 
 /* ----------------- HOME -------------------------------------- */
 
+
+.special-desktop {
+    display: block;
+}
+
+.special-mobile {
+    display: none;
+}
 
 
 .main-image {
