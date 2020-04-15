@@ -25,14 +25,23 @@ p {
     text-align: center;
 }
 
-.container {
+.home {
+    text-align: center;
+    margin: 100px 15% 10px 15%;
+
+}
+
+.about {
+    margin: 100px 15% 10px 15%;
+
+}
+
+.contact {
     margin: 100px 15% 10px 15%;
 }
 /* ----------------- HOME -------------------------------------- */
 
-.home {
-    text-align: center;
-}
+
 
 .main-image {
     width: 400px;
