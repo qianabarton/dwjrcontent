@@ -7,15 +7,17 @@ h1 {
 }
 
 a {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .nav-link {
     font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .navbar-nav {
