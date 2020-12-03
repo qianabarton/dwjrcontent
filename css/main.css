@@ -1,4 +1,3 @@
-
 h1 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -19,7 +18,6 @@ a {
 .nav-link {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
-
 }
 
 p {
@@ -39,12 +37,10 @@ p {
 .home {
     text-align: center;
     margin: 20px 15% 10px 15%;
-
 }
 
 .about {
     margin: 20px 15% 10px 15%;
-
 }
 
 .articles {
@@ -54,13 +50,11 @@ p {
 
 .contact {
     margin: 20px 15% 10px 15%;
-
 }
 
 .contact-image {
     width: 400px;
 }
-
 
 .contact-body {
     text-align: center;
@@ -86,12 +80,10 @@ p {
 
 .block-list li {
     margin: 12px 0;
-
 }
 
 .mail-icon {
     width: 32px;
-    
 }
 
 .name-divider {
@@ -99,8 +91,8 @@ p {
     opacity: 0.5;
 }
 
-/* ----------------- HOME -------------------------------------- */
 
+/* ----------------- HOME -------------------------------------- */
 
 .special-desktop {
     display: block;
@@ -109,7 +101,6 @@ p {
 .special-mobile {
     display: none;
 }
-
 
 .main-image {
     width: 400px;
@@ -125,7 +116,6 @@ p {
 .text-block {
     font-family: 'Alegreya Sans SC', sans-serif;
     font-size: 20px;
-
 }
 
 .text-block p {
@@ -148,8 +138,8 @@ p {
     font-size: 20px;
 }
 
-/* ----------------- SOCIAL FOOTER -------------------------------------- */
 
+/* ----------------- SOCIAL FOOTER -------------------------------------- */
 
 .socials {
     text-align: center;
@@ -161,7 +151,8 @@ p {
     margin: 10px;
 }
 
-
 .accent {
     color: #D25200;
 }
+
+.indent {}
