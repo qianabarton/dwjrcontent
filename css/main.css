@@ -155,4 +155,8 @@ p {
     color: #D25200;
 }
 
-.indent {}
+.indent {
+    list-style: none;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    margin-right: 40px;
+}
